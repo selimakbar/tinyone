@@ -1,0 +1,13 @@
+
+font: 
+pt sans
+bold
+regular
+font-family: "PT Sans", serif;
+
+
+
+Colour:
+Black: #010101
+ass: #898989
+yel: #fcdb00
